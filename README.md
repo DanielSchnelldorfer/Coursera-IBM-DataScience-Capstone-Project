@@ -6,3 +6,5 @@ The aim of this capstone project was using the Foursquare API and location data 
 Please note: If you may want to try reproducing the code by yourself, you may get different results. That's because the tables on wikipedia as well as the location data change over time.
 
 The code shown in the Jupyter notebook was written by myself. Only a few lines for using the Foursquare API were provided by the course instructors and are marked in the comments.
+
+Unfortunately important graphical visulizations are not displayed in Github. 
