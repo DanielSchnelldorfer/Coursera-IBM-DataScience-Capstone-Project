@@ -7,4 +7,4 @@ Please note: If you may want to try reproducing the code by yourself, you may ge
 
 The code shown in the Jupyter notebook was written by myself. Only a few lines for using the Foursquare API were provided by the course instructors and are marked in the comments.
 
-Unfortunately important graphical visulizations are not displayed in Github. 
+Unfortunately important graphical visulizations are not displayed in Github, therefore the folium map with the results from the knn-algorithm is included in the presentation-pdf.
